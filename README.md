@@ -9,7 +9,7 @@ By uploading this project on GitHub, developers and enthusiasts can explore the 
 
 ## Features
 	
-	- Native project ready to be built on to your device.
+- Native project ready to be built on to your device.
 	- Support for unimodules and auto-linking.
 	- OTA updates, and Gestures out of the box.
 	- Full support for React Native web.
@@ -18,31 +18,24 @@ By uploading this project on GitHub, developers and enthusiasts can explore the 
 	
 ## Usage
 	
-	- `npx create-react-native-app` Create a new React Native app.
-	- `yarn ios` -- (`react-native run-ios`) Build the iOS App (requires a MacOS computer).
-	- `yarn android` -- (`react-native run-android`) Build the Android App.
-	- `yarn web` -- (`expo start:web`) Run the website in your browser.
-	
-## Sections
-	
-	- [Usage with Expo Client App](#usage-with-expo-client-app)
-	- [Support and Contact](#support-and-contact)
-	- [FAQs](#faqs)
-	- [Contributing](#contributing)
-	
+- `npx create-react-native-app` Create a new React Native app.
+- `yarn ios` -- (`react-native run-ios`) Build the iOS App (requires a MacOS computer).
+- `yarn android` -- (`react-native run-android`) Build the Android App.
+- `yarn web` -- (`expo start:web`) Run the website in your browser.
+		
 ## Usage with Expo Client App
 	
-	Expo Client enables you to work with all of the [Components and APIs](https://facebook.github.io/react-native/docs/getting-started.html) in React Native, as well as the [JavaScript APIs](https://docs.expo.io/versions/latest/sdk/index.html) that the are bundled with the Expo App.
+Expo Client enables you to work with all of the [Components and APIs](https://facebook.github.io/react-native/docs/getting-started.html) in React Native, as well as the [JavaScript APIs](https://docs.expo.io/versions/latest/sdk/index.html) that the are bundled with the Expo App.
 	
-	Expo Client supports running any project that doesn't have custom native modules added.
+Expo Client supports running any project that doesn't have custom native modules added.
 	
-	- Download the "Expo Client" app from the Play Store or App Store.
-	- Start your project with Expo
-	  - Install the CLI `npm i -g expo-cli`
-	  - Start the project `expo start`
-	- Open the project:
-	  - Sign in to expo and the project will appear in the app.
-	  - Or point your phone's camera at the QR code in the terminal (press "c" to view it).
+- Download the "Expo Client" app from the Play Store or App Store.
+- Start your project with Expo
+  - Install the CLI `npm i -g expo-cli`
+  - Start the project `expo start`
+- Open the project:
+  - Sign in to expo and the project will appear in the app.
+  - Or point your phone's camera at the QR code in the terminal (press "c" to view it).
 	
  ## License
 This project is Licensed under the [University Of Swabi](UOS). There's no rights reserved for this project, You are free to include it in original form or modified with or without additional modification in your own project
