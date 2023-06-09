@@ -4,7 +4,7 @@ This project is a visually appealing and interactive Todo app built using React 
 By uploading this project on GitHub, developers and enthusiasts can explore the codebase, learn from the implementation, and even contribute to its enhancement. It serves as an excellent learning resource for those interested in building their own React Native applications, particularly with a focus on creating visually captivating user interfaces.
 
 ## Screenshots
-### Login
+### Preview
 ![ezgif com-gif-maker (1)](https://github.com/KashifKhaan/react-native_to_do_list/assets/88695658/a80e1cb9-6166-4a02-a95b-8974c090c5d3)
 
 ## Features
